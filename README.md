@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/SSobinesh97844" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="vincent_raja_7"  height="40" width="100" /></a>
- <a href="https://www.linkedin.com/in/sobinesh-s-5694a1164/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vincent-raja" height="40" width="126" /></a>
-<a href="https://www.instagram.com/sobinesh/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vincent_raja_7"  height="40" width="110"" /></a>
+<a href="https://twitter.com/SSobinesh97844" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="vincent_raja_7"  height="40" width="100" /></a>
+ <a href="https://www.linkedin.com/in/sobinesh-s-5694a1164/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vincent-raja" height="40" width="126" /></a>
+<a href="https://www.instagram.com/sobinesh/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="vincent_raja_7"  height="40" width="110"" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
